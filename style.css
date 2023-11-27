@@ -146,24 +146,6 @@
     margin: 10px 0 1.5rem;
 }
 
-.content .btn{
-    display: inline-block;
-    padding: 1.3rem 2.8rem;
-    background: #fff;
-    border: 2px solid white;
-    border-radius: 6px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    font-size: 1.6rem;
-    color: #444;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.5s ease;
-}
-
-.content .btn:hover{
-    background: transparent;
-    color: #fff;
-}
 
 .slide .right-info{
     position: absolute;
@@ -256,6 +238,23 @@
 }
 
 
+.btnbutto{
+    display: inline-block;
+    padding: 1.3rem 2.8rem;
+    background: #fff;
+    border: 2px solid white;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 1.6rem;
+    color: #444;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.5s ease;
+}
 
 
 
+.btnbutto:hover{
+    background: transparent;
+    color: #fff;
+}
