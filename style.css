@@ -11,7 +11,7 @@
     font-size: 62.5%;
 }
 
-.header{
+.header2{
     position: fixed;
     top: 0;
     left: 0;
@@ -23,18 +23,18 @@
     z-index: 5;
 }
 
-.logo{
+.logo2{
     font-size: 30px;
     color: #fff;
     text-decoration: none;
     font-weight: 700;
 }
 
-.social{
+.social2{
     margin: 0 auto 0 50px;
 }
 
-.social a{
+.social2 a{
     display: inline-flex;
     justify-content: center;
     text-align: center;
@@ -47,11 +47,11 @@
     transition: all 0.5s ease;
 }
 
-.social a:hover{
+.social2 a:hover{
     background: #fff;
 }
 
-.social a i{
+.social2 a i{
     display: flex;
     font-size: 25px;
     color: #fff;
@@ -59,11 +59,11 @@
     transition: all 0.5s ease;
 }
 
-.social a:hover i{
+.social2 a:hover i{
     color: #444;
 }
 
-.navbar a{
+.navbar2 a{
     font-size: 18px;
     color: #fff;
     text-decoration: none;
@@ -71,6 +71,10 @@
     margin-left: 30px;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+
+
+
 
 .banner{
     position: relative;
